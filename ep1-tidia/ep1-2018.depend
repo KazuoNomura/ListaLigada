@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1533051831 source:c:\users\ivan\desktop\work\_aed1\eps\2018-2\ep1\ep1-2018\main.cpp
+	"ep.h"
+
+1532998664 c:\users\ivan\desktop\work\_aed1\eps\2018-2\ep1\ep1-2018\trabalho.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1533042481 source:c:\users\ivan\desktop\work\_aed1\eps\2018-2\ep1\ep1-2018\trabalho.cpp
+	"ep.h"
+
+1533042666 c:\users\ivan\desktop\work\_aed1\eps\2018-2\ep1\ep1-2018\ep.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
